@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model name="" userDefinedModelVersionIdentifier="" type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="2057" systemVersion="11G63b" minimumToolsVersion="Xcode 4.3" macOSVersion="Automatic" iOSVersion="Automatic">
+    <entity name="Haiku" representedClassName="Haiku" syncable="YES">
+        <attribute name="child" optional="YES" attributeType="Boolean" syncable="YES"/>
+        <attribute name="date" optional="YES" attributeType="Date" syncable="YES"/>
+        <attribute name="deleteFlug" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="haiku575" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="identifer" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="image" optional="YES" attributeType="Binary" syncable="YES"/>
+        <attribute name="kami5" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="naka7" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="shimo5" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="thumbnail" optional="YES" attributeType="Binary" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="Haiku" positionX="160" positionY="192" width="128" height="195"/>
+    </elements>
+</model>
